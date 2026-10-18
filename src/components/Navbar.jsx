@@ -74,7 +74,7 @@ export default function Navbar() {
           </a>
           <a
             className="inline-flex items-center gap-1.5 px-5 py-2.5 rounded-lg bg-primary-container text-on-primary font-label-lg text-label-lg hover:bg-primary shadow-sm hover:shadow active:scale-95 transition-all duration-150"
-            href="#ppdb-form"
+            href="#/daftar"
           >
             <span className="material-symbols-outlined text-[18px]">edit_square</span>
             <span>Daftar PPDB Online</span>
@@ -111,7 +111,7 @@ export default function Navbar() {
             </a>
             <a
               className="w-full text-center py-2.5 bg-primary-container text-on-primary rounded-lg font-label-lg"
-              href="#ppdb-form"
+              href="#/daftar"
               onClick={closeDrawer}
             >
               Daftar PPDB Online

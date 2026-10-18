@@ -22,7 +22,7 @@ export default function Hero({ onOpenVideo }) {
             <div className="flex flex-wrap items-center gap-4 pt-2">
               <a
                 className="px-6 py-3.5 rounded-lg bg-primary-container text-on-primary font-label-lg text-label-lg hover:bg-primary shadow-md hover:shadow-lg transition-all flex items-center gap-2"
-                href="#ppdb-form"
+                href="#/daftar"
               >
                 <span>Daftar PPDB Sekarang</span>
                 <span className="material-symbols-outlined text-[20px]">arrow_forward</span>
